@@ -1,0 +1,5 @@
+host: localhost
+port: 5432
+username: donggua
+password: password
+databaseName: database_chat
